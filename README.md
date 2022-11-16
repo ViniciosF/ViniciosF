@@ -1,7 +1,7 @@
 ### Olá! Bem vindo ao meu GitHub 😀
 
 - 😃Procurando o primeiro estágio na área de programação
-- 🌱 Estudando HTML, CSS E JAVASCRIP
+- 🌱 Estudando HTML, CSS E JAVASCRIPT
 
 
 <div align="center">
